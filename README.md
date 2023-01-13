@@ -1,5 +1,7 @@
 # Lucky Penguins Project 2
-
+## Project Overview
+This is a GUI population dynamics simulator created by Walt Jones, James Settles, Na'ama Nevo, and Simay Curray. 
+Walt Jones worked on packages GUI and Creature
 ## Population Dynamics Simulation
 The simulation program shows how population sizes change as predator, prey, and food populations interact. The simulation takes in user input that defines what the creatures of a population will look like on the simulation and which populations are their prey. The creatures will randomly move around on the graphical user interface window, while the food is stationary in random locations. When two objects collide, they will have one of three interactions. If two creatures of the same species collide, they may reproduce and another creature of the same type will appear. If two different species collide and one of them is the prey of the other, then it will get eaten and disappear. If a creature and food collide, then the food will disappear.
 
